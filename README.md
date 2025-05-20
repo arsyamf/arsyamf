@@ -1,13 +1,15 @@
 # Halo, Saya LyonZ! 👋
 
-[![Header](https://i.pinimg.com/736x/f5/c1/a2/f5c1a2e84f9d9b9cae5d5a6b3e620ad5.jpg)
-
 <p align="center">
+<img src="https://i.pinimg.com/736x/f5/c1/a2/f5c1a2e84f9d9b9cae5d5a6b3e620ad5.jpg" alt="Header" style="height:300px; border-radius:10px;"/>
+</p>
+
+<!-- <p align="center">
   <a href="https://twitter.com/arsyamf"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/arsyamf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/arsyamf"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+</p> -->
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=react,express,mysql,html,css,tailwind,bootstrap,figma,git,python,php&perline=8" alt="skills" /> </p>
 
