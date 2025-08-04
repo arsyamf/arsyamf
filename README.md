@@ -18,6 +18,5 @@ const lyonz = {
   name: "LyonZ",
   role: "Frontend Engineer",
   tools: ["React", "Tailwind", "Express", "MySQL", "PHP", "Figma"],
-  currentlyLearning: ["Next.js", "TypeScript", "Web3"],
-  portfolio: "https://your-portfolio-url.com",
+  currentlyLearning: ["Next.js", "TypeScript"],
 };
