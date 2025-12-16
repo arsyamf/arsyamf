@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/f5/c1/a2/f5c1a2e84f9d9b9cae5d5a6b3e620ad5.jpg" alt="hero" width="550px" style="border-radius:12px; border: 1px solid #ddd;" />
+  <img src="https://github.com/user-attachments/assets/433aac98-3e9b-4ccf-8825-d4fbf2f9680b" alt="hero" width="550px" style="border-radius:12px; border: 1px solid #ddd;" />
 </p>
 
 ---
