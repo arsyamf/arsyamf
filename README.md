@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/433aac98-3e9b-4ccf-8825-d4fbf2f9680b" alt="hero" width="550px" style="border-radius:12px; border: 1px solid #ddd;" />
-  <p>My.....</p>
+  <p align="center">My.....</p>
 </p>
 
 ---
