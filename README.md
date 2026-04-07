@@ -21,24 +21,6 @@ Saya adalah seorang pengembang web yang fokus pada membangun aplikasi yang skala
 
 ---
 
-### GitHub Stats
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsyamf&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsyamf&layout=compact&theme=tokyonight) |
-|---|---|
-
----
-
-### Sedang Mengerjakan
-- Membangun sistem reservasi dan manajemen workspace.
-- Eksperimen dengan automasi workflow menggunakan **n8n**.
-- Mempelajari lebih dalam tentang **Next.js App Router** dan performa database.
-
----
-
-### Mari Terhubung
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arsyamf&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
