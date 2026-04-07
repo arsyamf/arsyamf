@@ -1,11 +1,11 @@
 # Halo, Saya Arsya 👋
 
-### 🚀 Aspiring Full-Stack Developer | Software Engineering Student
+### Aspiring Full-Stack Developer | Software Engineering Student
 Saya adalah seorang pengembang web yang fokus pada membangun aplikasi yang skalabel, efisien, dan memiliki pengalaman pengguna yang mulus. Saat ini saya sedang mendalami ekosistem modern web dan automasi backend.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Frontend & Design**
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
@@ -21,13 +21,13 @@ Saya adalah seorang pengembang web yang fokus pada membangun aplikasi yang skala
 
 ---
 
-### 📊 GitHub Stats
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LyonZ&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyonZ&layout=compact&theme=tokyonight) |
+### GitHub Stats
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsyamf&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsyamf&layout=compact&theme=tokyonight) |
 |---|---|
 
 ---
 
-### 🌟 Sedang Mengerjakan
+### Sedang Mengerjakan
 - Membangun sistem reservasi dan manajemen workspace.
 - Eksperimen dengan automasi workflow menggunakan **n8n**.
 - Mempelajari lebih dalam tentang **Next.js App Router** dan performa database.
@@ -35,7 +35,7 @@ Saya adalah seorang pengembang web yang fokus pada membangun aplikasi yang skala
 ---
 
 ### Mari Terhubung
-- 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
+- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
 
 ---
 
