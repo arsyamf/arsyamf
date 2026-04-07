@@ -22,7 +22,7 @@ Saya adalah seorang pengembang web yang fokus pada membangun aplikasi yang skala
 ---
 
 ### 📊 GitHub Stats
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsyamf&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsyamf&layout=compact&theme=tokyonight) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LyonZ&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyonZ&layout=compact&theme=tokyonight) |
 |---|---|
 
 ---
