@@ -1,4 +1,4 @@
-# Halo, Saya Arsya
+# Halo, Saya Arsya 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Automations+%26+3D+Enthusiast" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-brightgreen?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/github/followers/username_kamu?label=Followers&style=flat-square&color=blue" alt="Followers">
+  <img src="https://img.shields.io/github/followers/arsyamf?label=Followers&style=flat-square&color=blue" alt="Followers">
 </p>
 
 ---
@@ -27,12 +27,11 @@ Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembangunan ap
 
 ---
 
-
 ### 📊 GitHub Statistics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?arsyamf=arsyamf&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?arsyamf=arsyamf&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arsyamf&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsyamf&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <!-- Animasi Kontribusi Ular (Snake Game) -->
@@ -47,5 +46,5 @@ Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembangunan ap
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?arsyamf=arsyamf&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=arsyamf&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
 </p>
