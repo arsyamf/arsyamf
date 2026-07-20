@@ -37,7 +37,7 @@ Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembangunan ap
 
 <!-- Animasi Kontribusi Ular (Snake Game) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username_kamu/arsyamf/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="98%" />
+  <img src="https://raw.githubusercontent.com/arsyamf/arsyamf/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="98%" />
 </p>
 
 <p align="center">
