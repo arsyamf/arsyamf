@@ -29,7 +29,7 @@ Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembangunan ap
 
 ### 📊 GitHub Statistics & Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arsyamf&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsyamf&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
@@ -37,7 +37,7 @@ Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembangunan ap
 <!-- Animasi Kontribusi Ular (Snake Game) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/arsyamf/arsyamf/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="98%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arsyamf&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
