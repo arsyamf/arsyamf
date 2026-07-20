@@ -1,4 +1,4 @@
-# Halo, Saya LyonZ 👋
+# Halo, Saya Arsya
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Automations+%26+3D+Enthusiast" alt="Typing SVG" />
@@ -15,10 +15,6 @@
 
 Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembangunan aplikasi web dan mobile yang skalabel, efisien, serta memiliki pengalaman pengguna yang mulus. Saat ini saya aktif mengeksplorasi ekosistem modern web, otomatisasi *workflow*, dan interaksi visual.
 
-- 🛠️ Sedang mendalami: **Next.js & TypeScript** untuk arsitektur frontend tingkat lanjut.
-- ⚡ Fokus otomatisasi: Membangun sistem terintegrasi menggunakan **n8n** dan database relasional.
-- 🎨 Minat lain: Eksplorasi grafis dan pemodelan **3D di Blender** untuk kebutuhan visual modern.
-
 ---
 
 ### 💻 Tech Stack & Tools
@@ -31,34 +27,25 @@ Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembangunan ap
 
 ---
 
-### 🌟 Featured Projects
-
-> Berikut adalah beberapa proyek utama yang telah saya kembangkan:
-
-*   **Zafit** – Aplikasi manajemen kontribusi sosial dan laporan distribusi komunitas. Dibangun dengan fokus pada alur kerja formulir multi-tahap dan pelacakan status yang transparan.
-*   **SiPeka** – Sistem manajemen keuangan sekolah berbasis *mobile* dan *web* untuk mempermudah pemantauan dan transparansi finansial.
-*   **GeoMass Indexing** – Sistem otomatisasi untuk geocoding data wilayah massal menggunakan integrasi OpenStreetMap (Nominatim) API dan MySQL.
-
----
 
 ### 📊 GitHub Statistics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username_kamu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username_kamu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?arsyamf=arsyamf&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?arsyamf=arsyamf&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <!-- Animasi Kontribusi Ular (Snake Game) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username_kamu/username_kamu/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="98%" />
+  <img src="https://raw.githubusercontent.com/username_kamu/arsyamf/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="98%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username_kamu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arsyamf&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=username_kamu&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?arsyamf=arsyamf&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
 </p>
